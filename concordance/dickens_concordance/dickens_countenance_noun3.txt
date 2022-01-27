@@ -1,0 +1,5 @@
+Noun "in her countenance"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+visible		1	368	1	1	0	1	15.554	12.462
+plainly		2	566	1	1	0	1	14.692	11.841
+open		3	2712	1	1	0	1	11.558	9.581

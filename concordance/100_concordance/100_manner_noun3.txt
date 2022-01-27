@@ -1,0 +1,33 @@
+Noun "of her manner"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+calmness		1	237	3	3	0	3	44.927	12.18
+placidity		2	25	2	2	0	2	37.413	14.84
+gentleness		3	251	2	2	0	2	28.039	11.513
+dignity		4	984	2	2	0	2	22.566	9.542
+kindness		5	1299	2	2	0	2	21.456	9.141
+pomposity		6	16	1	1	0	1	18.169	14.484
+kindliness		7	22	1	1	0	1	17.514	14.025
+sufficiency		8	28	1	1	0	1	17.022	13.677
+smoothness		9	31	1	1	0	1	16.815	13.53
+servility		10	33	1	1	0	1	16.688	13.44
+strangeness		11	55	1	1	0	1	15.654	12.703
+sternness		12	77	1	1	0	1	14.976	12.217
+peculiarity		13	98	1	1	0	1	14.491	11.87
+imitation		14	105	1	1	0	1	14.352	11.77
+wildness		15	106	1	1	0	1	14.333	11.756
+levity		16	117	1	1	0	1	14.135	11.614
+flutter		17	124	1	1	0	1	14.018	11.53
+attractions		18	166	1	1	0	1	13.433	11.109
+coolness		19	186	1	1	0	1	13.205	10.945
+familiarity		20	199	1	1	0	1	13.069	10.848
+novelty		21	203	1	1	0	1	13.029	10.819
+characteristic		22	223	1	1	0	1	12.841	10.683
+modesty		23	236	1	1	0	1	12.728	10.602
+grandeur		24	254	1	1	0	1	12.580	10.496
+magic		25	344	1	1	0	1	11.973	10.058
+gaiety		26	380	1	1	0	1	11.774	9.914
+sweetness		27	395	1	1	0	1	11.697	9.859
+eagerness		28	427	1	1	0	1	11.541	9.746
+simplicity		29	471	1	1	0	1	11.345	9.605
+energy		30	768	1	1	0	1	10.368	8.899
+freedom		31	814	1	1	0	1	10.251	8.815

@@ -1,0 +1,31 @@
+Noun "Of his face"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+expression		1	2118	17	17	0	15	202.913	9.938
+part		2	6663	10	10	0	8	85.212	7.519
+lines		3	880	7	7	0	6	82.802	9.925
+side		4	6650	9	9	0	9	74.759	7.37
+feature		5	279	4	4	0	3	51.947	10.775
+muscle		6	75	3	3	0	2	45.167	12.255
+hue		7	295	3	3	0	3	36.863	10.28
+rest		8	3744	4	4	0	4	31.175	7.029
+lineaments		9	65	2	2	0	1	29.027	11.877
+muscles		10	91	2	2	0	2	27.663	11.392
+variableness		11	1	1	1	0	1	23.436	16.899
+portion		12	734	2	2	0	2	19.284	8.38
+twitchings		13	5	1	1	0	1	18.432	14.577
+front		14	1327	2	2	0	2	16.923	7.525
+out		15	24925	4	4	0	3	16.341	4.294
+line		16	1618	2	2	0	2	16.134	7.239
+lineament		17	21	1	1	0	1	15.395	12.507
+redness		18	31	1	1	0	1	14.601	11.945
+contour		19	33	1	1	0	1	14.474	11.855
+beauty		20	2745	2	2	0	1	14.036	6.477
+thoughtfulness		21	41	1	1	0	1	14.034	11.542
+manliness		22	45	1	1	0	1	13.846	11.407
+scrap		23	70	1	1	0	1	12.954	10.77
+exterior		24	102	1	1	0	1	12.197	10.227
+wildness		25	106	1	1	0	1	12.120	10.171
+map		26	119	1	1	0	1	11.888	10.004
+merriment		27	128	1	1	0	1	11.742	9.899
+scrutiny		28	139	1	1	0	1	11.576	9.78
+paleness		29	157	1	1	0	1	11.332	9.605

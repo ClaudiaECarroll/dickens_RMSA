@@ -1,0 +1,26 @@
+"Manner of" noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+speech		1	710	8	0	8	5	66.374	7.401
+speaking		2	1358	6	0	6	4	38.592	6.05
+things		3	2932	7	0	7	6	36.583	5.162
+this		4	38878	17	0	17	9	35.509	2.713
+reply		5	1366	5	0	5	4	30.297	5.778
+smoothing		6	116	3	0	3	3	29.873	8.599
+receiving		7	350	3	0	3	3	23.225	7.006
+conducting		8	58	2	0	2	2	21.077	9.014
+his		9	105276	22	0	22	11	20.715	1.648
+stating		10	78	2	0	2	2	19.877	8.587
+a		11	181236	30	0	30	14	19.322	1.312
+theatrical		12	96	2	0	2	1	19.039	8.287
+places		13	892	3	0	3	3	17.668	5.656
+to		14	218570	2	0	2	2	17.498	-2.865
+peaceful		15	174	2	0	2	1	16.652	7.429
+of		16	209760	2	0	2	2	16.460	-2.806
+ravishers		16	2	1	0	1	1	16.460	12.872
+curvilinear		16	2	1	0	1	1	16.460	12.872
+education		19	194	2	0	2	2	16.217	7.272
+concern		20	210	2	0	2	2	15.900	7.158
+clasping		21	214	2	0	2	1	15.825	7.131
+wearing		22	238	2	0	2	2	15.401	6.977
+breathing		23	274	2	0	2	2	14.840	6.774
+cads		24	4	1	0	1	1	14.735	11.872

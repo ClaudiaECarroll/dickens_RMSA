@@ -1,0 +1,26 @@
+Noun "in her countenance"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+painted		1	466	2	2	0	2	24.112	10.109
+archness		2	11	1	1	0	1	18.232	14.514
+oddity		3	28	1	1	0	1	16.306	13.166
+appeared		4	3976	2	2	0	1	15.555	7.016
+discomfiture		5	67	1	1	0	1	14.540	11.907
+discernible		6	69	1	1	0	1	14.481	11.865
+depicted		7	75	1	1	0	1	14.313	11.744
+traits		8	78	1	1	0	1	14.234	11.688
+comic		9	91	1	1	0	1	13.924	11.466
+beaming		10	143	1	1	0	1	13.016	10.813
+reigned		11	144	1	1	0	1	13.002	10.803
+brightly		12	160	1	1	0	1	12.791	10.651
+nobility		13	182	1	1	0	1	12.533	10.466
+beam		14	189	1	1	0	1	12.457	10.411
+alteration		15	194	1	1	0	1	12.405	10.373
+piety		16	240	1	1	0	1	11.979	10.066
+flashing		17	241	1	1	0	1	11.970	10.06
+assent		18	270	1	1	0	1	11.743	9.897
+composure		19	338	1	1	0	1	11.293	9.572
+ghastly		20	343	1	1	0	1	11.264	9.551
+amazement		21	349	1	1	0	1	11.229	9.526
+changes		22	361	1	1	0	1	11.162	9.477
+struggled		23	384	1	1	0	1	11.038	9.388
+sweetness		24	395	1	1	0	1	10.982	9.348

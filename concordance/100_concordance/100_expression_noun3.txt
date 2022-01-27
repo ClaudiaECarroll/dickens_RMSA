@@ -1,0 +1,10 @@
+Noun "in her expression"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+enigmatic		1	6	1	1	0	1	23.777	18.414
+exultant		2	42	1	1	0	1	19.732	15.607
+astonishment		3	1340	1	1	0	1	12.785	10.611
+mingled		4	1606	1	1	0	1	12.423	10.35
+pity		5	3454	1	1	0	1	10.893	9.245
+form		6	5902	1	1	0	1	9.823	8.472
+point		7	6630	1	1	0	1	9.591	8.304
+character		8	6828	1	1	0	1	9.532	8.262

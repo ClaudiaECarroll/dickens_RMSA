@@ -1,0 +1,9 @@
+Noun "of her countenance"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+wrinkle		1	20	1	1	0	1	19.423	15.342
+scrutiny		2	58	1	1	0	1	17.260	13.806
+languid		3	84	1	1	0	1	16.514	13.272
+hue		4	88	1	1	0	1	16.421	13.205
+survey		5	118	1	1	0	1	15.831	12.781
+careful		6	404	1	1	0	1	13.364	11.006
+expression		7	1590	1	1	0	1	10.625	9.029

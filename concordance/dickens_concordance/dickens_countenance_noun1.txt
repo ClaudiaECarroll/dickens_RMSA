@@ -1,0 +1,13 @@
+Noun "of countenance"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+expression		1	795	22	22	0	11	298.463	10.904
+out		2	11337	23	23	0	11	191.939	7.134
+change		3	842	3	3	0	3	27.234	7.946
+composure		4	135	2	2	0	2	23.833	10.002
+contractions		5	1	1	1	0	1	22.307	16.079
+discomposure		6	22	1	1	0	1	14.172	11.62
+sweetness		7	46	1	1	0	1	12.673	10.556
+alteration		8	75	1	1	0	1	11.688	9.85
+cheerfulness		9	107	1	1	0	1	10.974	9.338
+severe		10	118	1	1	0	1	10.778	9.196
+expressions		11	120	1	1	0	1	10.744	9.172

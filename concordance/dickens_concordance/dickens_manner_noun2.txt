@@ -1,0 +1,18 @@
+Noun "of his manner"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+composure		1	135	2	2	0	2	28.810	11.739
+politeness		2	138	2	2	0	2	28.721	11.708
+indolence		3	5	1	1	0	1	19.751	15.494
+nervousness		4	7	1	1	0	1	19.013	15.009
+singularity		5	11	1	1	0	1	18.053	14.357
+dejection		6	19	1	1	0	1	16.920	13.568
+levity		7	20	1	1	0	1	16.815	13.494
+lightness		8	24	1	1	0	1	16.441	13.231
+resignation		9	52	1	1	0	1	14.872	12.116
+severity		10	65	1	1	0	1	14.422	11.794
+simplicity		11	89	1	1	0	1	13.790	11.34
+agitation		12	166	1	1	0	1	12.538	10.441
+understanding		13	209	1	1	0	1	12.077	10.109
+kindness		14	279	1	1	0	1	11.498	9.692
+note		15	428	1	1	0	1	10.643	9.075
+confidence		16	688	1	1	0	1	9.694	8.39

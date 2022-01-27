@@ -1,0 +1,24 @@
+Noun "of her countenance"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+expression		1	2118	14	14	0	12	183.053	10.682
+paleness		2	157	3	3	0	3	45.010	12.214
+variation		3	30	2	2	0	2	35.068	14.017
+sion		4	823	3	3	0	3	35.028	9.824
+mation		5	92	2	2	0	2	30.493	12.4
+view		6	2231	3	3	0	3	29.049	8.385
+pression		7	221	2	2	0	2	26.963	11.136
+thebearing		8	1	1	1	0	1	24.864	17.924
+cast		9	1850	2	2	0	2	18.461	8.07
+voluptuousness		10	11	1	1	0	1	18.162	14.464
+lineament		11	21	1	1	0	1	16.824	13.531
+austerity		12	49	1	1	0	1	15.102	12.309
+fairness		13	55	1	1	0	1	14.868	12.142
+lustre		14	239	1	1	0	1	11.918	10.023
+look		15	9709	2	2	0	2	11.888	5.678
+animation		16	253	1	1	0	1	11.804	9.941
+feature		17	279	1	1	0	1	11.608	9.799
+detail		18	288	1	1	0	1	11.544	9.754
+gravity		19	312	1	1	0	1	11.384	9.638
+composure		20	338	1	1	0	1	11.224	9.523
+changes		21	361	1	1	0	1	11.092	9.428
+sweetness		22	395	1	1	0	1	10.912	9.298

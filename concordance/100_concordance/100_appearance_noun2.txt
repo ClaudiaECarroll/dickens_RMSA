@@ -1,0 +1,20 @@
+"Appearance of being" noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+rltten		1	2	1	0	1	1	24.477	18.636
+depopulated		2	8	1	0	1	1	21.221	16.636
+stultified		3	10	1	0	1	1	20.748	16.314
+stocked		4	48	1	0	1	1	17.528	14.051
+overcharged		5	52	1	0	1	1	17.367	13.936
+delayed		6	418	1	0	1	1	13.182	10.929
+mixed		7	750	1	0	1	1	12.013	10.086
+happier		8	802	1	0	1	1	11.879	9.989
+older		9	890	1	0	1	1	11.671	9.839
+destined		10	946	1	0	1	1	11.549	9.751
+well		11	38388	2	0	2	2	11.196	5.408
+compelled		12	1306	1	0	1	1	10.904	9.285
+cheerful		13	1490	1	0	1	1	10.641	9.095
+younger		14	1512	1	0	1	1	10.612	9.074
+worn		15	1624	1	0	1	1	10.469	8.971
+accompanied		16	1762	1	0	1	1	10.306	8.853
+settled		17	2052	1	0	1	1	10.002	8.633
+delicate		18	2060	1	0	1	1	9.994	8.628

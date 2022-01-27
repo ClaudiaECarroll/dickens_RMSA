@@ -1,0 +1,25 @@
+Noun "in his face"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+expression		1	795	12	12	0	8	123.619	8.797
+up		2	10728	9	9	0	7	41.010	4.627
+intently		3	93	3	3	0	3	35.309	9.892
+emotion		4	211	3	3	0	2	30.346	8.71
+looking		5	3810	5	5	0	5	26.984	5.273
+wistfully		6	52	2	2	0	1	24.241	10.146
+fixedly		7	53	2	2	0	1	24.163	10.119
+cooin		8	1	1	1	0	1	20.589	14.846
+triumph		9	196	2	2	0	2	18.885	8.232
+colour		10	276	2	2	0	2	17.515	7.738
+line		11	289	2	2	0	2	17.332	7.672
+written		12	375	2	2	0	1	16.292	7.296
+furrow		13	7	1	1	0	1	14.847	12.039
+broadly		13	7	1	1	0	1	14.847	12.039
+recognisable		15	9	1	1	0	1	14.310	11.677
+inquisitively		15	9	1	1	0	1	14.310	11.677
+wrinkle		17	10	1	1	0	1	14.088	11.525
+curve		17	10	1	1	0	1	14.088	11.525
+muscle		19	16	1	1	0	1	13.108	10.846
+wrinkles		20	18	1	1	0	1	12.866	10.677
+paleness		21	19	1	1	0	1	12.755	10.599
+deepening		22	22	1	1	0	1	12.454	10.387
+meekness		23	24	1	1	0	1	12.276	10.262

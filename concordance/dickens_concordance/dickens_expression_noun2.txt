@@ -1,0 +1,30 @@
+"Expression of" noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+face		1	9230	54	0	54	14	377.328	6.394
+countenance		2	1062	28	0	28	11	278.756	8.566
+surprise		3	1072	10	0	10	6	78.381	7.067
+his		4	105276	38	0	38	11	65.461	2.375
+interest		5	1702	7	0	7	5	43.460	5.885
+which		6	31972	17	0	17	8	39.984	2.934
+opinion		7	1480	6	0	6	4	37.071	5.865
+curiosity		8	418	4	0	4	4	31.515	7.104
+features		9	454	4	0	4	4	30.856	6.985
+impatience		10	268	3	0	3	3	24.570	7.33
+indicative		11	54	2	0	2	2	21.198	9.056
+astonishment		12	510	3	0	3	3	20.727	6.402
+melancholy		13	606	3	0	3	3	19.703	6.153
+inward		14	80	2	0	2	1	19.605	8.489
+benevolence		15	84	2	0	2	2	19.408	8.419
+pity		16	678	3	0	3	1	19.038	5.991
+to		17	218570	2	0	2	1	18.608	-2.927
+perplexity		18	128	2	0	2	2	17.713	7.811
+deepest		19	132	2	0	2	2	17.589	7.767
+faces		20	960	3	0	3	2	16.986	5.489
+paternity		21	2	1	0	1	1	16.376	12.811
+claudius		21	2	1	0	1	1	16.376	12.811
+humility		23	192	2	0	2	2	16.089	7.226
+scorn		24	210	2	0	2	2	15.732	7.097
+contempt		25	250	2	0	2	2	15.037	6.845
+cunning		26	262	2	0	2	2	14.850	6.778
+amazement		27	292	2	0	2	2	14.419	6.621
+gratitude		28	306	2	0	2	1	14.233	6.554

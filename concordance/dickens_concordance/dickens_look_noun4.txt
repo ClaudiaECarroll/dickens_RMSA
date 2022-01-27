@@ -1,0 +1,14 @@
+"Look which" verb/noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+directed		1	468	2	0	2	1	21.353	9.116
+agnes		2	920	2	0	2	1	18.652	8.141
+showed		3	972	2	0	2	2	18.432	8.061
+woful		4	6	1	0	1	1	18.157	14.401
+had		5	61126	5	0	5	4	14.899	3.408
+appreciation		6	54	1	0	1	1	13.605	11.231
+customary		7	82	1	0	1	1	12.763	10.628
+preceded		8	102	1	0	1	1	12.325	10.314
+seemed		9	4644	2	0	2	1	12.228	5.805
+assume		10	128	1	0	1	1	11.869	9.986
+intense		11	162	1	0	1	1	11.397	9.646
+terrified		12	164	1	0	1	1	11.372	9.628

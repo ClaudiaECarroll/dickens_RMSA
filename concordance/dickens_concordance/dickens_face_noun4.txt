@@ -1,0 +1,18 @@
+Noun "of her face"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+expression		1	795	5	5	0	5	57.916	9.673
+beauty		2	362	3	3	0	3	36.205	10.071
+muscle		3	16	1	1	0	1	16.098	12.986
+dissatisfaction		4	20	1	1	0	1	15.639	12.664
+light		5	2086	2	2	0	2	15.456	6.959
+graces		6	50	1	1	0	1	13.776	11.342
+concealment		7	55	1	1	0	1	13.584	11.205
+darkening		7	55	1	1	0	1	13.584	11.205
+flush		9	57	1	1	0	1	13.512	11.153
+survey		10	59	1	1	0	1	13.442	11.103
+yielding		11	92	1	1	0	1	12.548	10.462
+glimpse		12	99	1	1	0	1	12.401	10.357
+determination		13	135	1	1	0	1	11.778	9.909
+parts		14	158	1	1	0	1	11.463	9.682
+setting		15	216	1	1	0	1	10.836	9.231
+delight		16	361	1	1	0	1	9.810	8.49

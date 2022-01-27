@@ -1,0 +1,13 @@
+Noun "in her manner"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+splenetic		1	14	1	1	0	1	17.761	14.179
+awkwardness		2	24	1	1	0	1	16.652	13.401
+embarrassment		3	114	1	1	0	1	13.503	11.153
+faltering		4	122	1	1	0	1	13.367	11.055
+flutter		5	128	1	1	0	1	13.270	10.986
+shrinking		6	166	1	1	0	1	12.749	10.611
+trace		7	196	1	1	0	1	12.416	10.371
+defiance		8	200	1	1	0	1	12.375	10.342
+contented		9	258	1	1	0	1	11.865	9.975
+uncommon		10	412	1	1	0	1	10.929	9.3
+tender		11	548	1	1	0	1	10.359	8.888

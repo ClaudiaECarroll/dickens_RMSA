@@ -1,0 +1,28 @@
+Noun "in his manner"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+change		1	842	5	5	0	5	49.369	8.503
+something		2	2425	5	5	0	5	38.820	6.977
+emotion		3	211	2	2	0	2	21.530	9.177
+ungracious		4	6	1	1	0	1	16.648	13.314
+unconcern		5	8	1	1	0	1	16.027	12.899
+suavity		6	16	1	1	0	1	14.574	11.899
+stiffness		7	18	1	1	0	1	14.331	11.729
+dejection		8	19	1	1	0	1	14.220	11.651
+implying		9	21	1	1	0	1	14.015	11.506
+detect		10	23	1	1	0	1	13.829	11.375
+conciliatory		11	25	1	1	0	1	13.658	11.255
+warmer		12	29	1	1	0	1	13.356	11.041
+peculiarity		13	30	1	1	0	1	13.287	10.992
+quickness		14	32	1	1	0	1	13.156	10.899
+irritation		14	32	1	1	0	1	13.156	10.899
+negligence		16	35	1	1	0	1	12.974	10.769
+abstracted		16	35	1	1	0	1	12.974	10.769
+candour		18	36	1	1	0	1	12.917	10.729
+pathetic		19	45	1	1	0	1	12.465	10.407
+constraint		20	56	1	1	0	1	12.024	10.091
+fervour		21	57	1	1	0	1	11.988	10.066
+alacrity		21	57	1	1	0	1	11.988	10.066
+solemnity		23	71	1	1	0	1	11.546	9.749
+alteration		24	75	1	1	0	1	11.436	9.67
+patronage		25	78	1	1	0	1	11.357	9.613
+introduction		26	86	1	1	0	1	11.161	9.472

@@ -1,0 +1,9 @@
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+riveted		1	16	1	0	1	1	17.517	13.986
+attributable		2	20	1	0	1	1	17.057	13.664
+intently		3	93	1	0	1	1	13.944	11.447
+intent		4	143	1	0	1	1	13.080	10.826
+thoughtful		5	209	1	0	1	1	12.319	10.279
+broken		6	576	1	0	1	1	10.291	8.816
+cold		7	944	1	0	1	1	9.305	8.103
+not		8	23302	2	0	2	1	8.834	4.478

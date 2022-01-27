@@ -1,0 +1,19 @@
+"Look that" verb/noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+way		1	24864	7	0	7	6	38.123	5.311
+accompanied		2	1762	3	0	3	3	26.961	7.908
+unﬁlial		3	2	1	0	1	1	20.946	16.106
+indicated		4	606	2	0	2	2	20.607	8.863
+howard		5	616	2	0	2	1	20.541	8.839
+volumes		6	688	2	0	2	2	20.099	8.68
+accompained		7	4	1	0	1	1	19.220	15.106
+enwraps		8	6	1	0	1	1	18.312	14.521
+denotes		9	20	1	0	1	1	15.778	12.784
+expressed		10	2284	2	0	2	2	15.318	6.948
+intelligibly		11	26	1	0	1	1	15.242	12.405
+quite		12	13990	3	0	3	3	14.696	4.919
+voice		13	15454	3	0	3	3	14.119	4.775
+aston		14	62	1	0	1	1	13.481	11.152
+galled		15	78	1	0	1	1	13.019	10.82
+seemed		16	18922	3	0	3	3	12.953	4.483
+characterized		17	88	1	0	1	1	12.776	10.646

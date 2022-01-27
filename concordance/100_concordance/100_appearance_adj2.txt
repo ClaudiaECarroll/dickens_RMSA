@@ -1,0 +1,20 @@
+"Appearance was" adjective
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+ghastly		1	686	3	0	3	3	36.470	10.188
+remarkable		2	1138	3	0	3	3	33.432	9.458
+seremarkable		3	2	1	0	1	1	22.224	17.025
+by		4	145056	6	0	6	6	18.174	3.464
+weedy		5	30	1	0	1	1	16.228	13.118
+metamorphosed		6	38	1	0	1	1	15.749	12.777
+dissimilar		7	52	1	0	1	1	15.114	12.324
+unalloyed		7	52	1	0	1	1	15.114	12.324
+caricature		9	76	1	0	1	1	14.349	11.777
+answerable		10	96	1	0	1	1	13.879	11.44
+forbidding		11	102	1	0	1	1	13.758	11.352
+uppermost		12	144	1	0	1	1	13.065	10.855
+diffused		13	158	1	0	1	1	12.879	10.721
+aggravated		14	176	1	0	1	1	12.663	10.565
+grotesque		15	188	1	0	1	1	12.531	10.47
+clerical		15	188	1	0	1	1	12.531	10.47
+diverted		17	260	1	0	1	1	11.881	10.002
+so		18	103914	4	0	4	4	11.530	3.36

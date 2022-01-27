@@ -1,0 +1,16 @@
+"Appearance was" adjective
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+sufficiently		1	512	2	0	2	2	23.119	9.738
+referable		2	46	1	0	1	1	14.982	12.215
+prepossessing		3	76	1	0	1	1	13.969	11.49
+dashing		4	110	1	0	1	1	13.226	10.957
+unusually		5	140	1	0	1	1	12.742	10.609
+ghastly		6	160	1	0	1	1	12.474	10.416
+so		7	36440	3	0	3	2	11.893	4.17
+unlike		8	222	1	0	1	1	11.818	9.944
+calculated		9	262	1	0	1	1	11.486	9.705
+succeeded		10	306	1	0	1	1	11.176	9.481
+explained		11	362	1	0	1	1	10.839	9.238
+shape		12	382	1	0	1	1	10.732	9.161
+altered		13	428	1	0	1	1	10.505	8.997
+not		14	46604	3	0	3	3	10.503	3.815

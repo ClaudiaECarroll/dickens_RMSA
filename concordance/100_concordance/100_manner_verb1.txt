@@ -1,0 +1,23 @@
+"Manner which" Verb/noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+showed		1	2728	6	0	6	5	50.511	7.494
+made		2	32270	10	0	10	9	45.741	4.666
+would		3	89340	11	0	11	10	31.313	3.335
+plainly		4	972	3	0	3	2	27.256	7.983
+amounted		5	150	2	0	2	2	24.027	10.094
+had		6	231570	14	0	14	12	22.814	2.309
+seemed		7	18922	5	0	5	5	21.279	4.437
+redounded		8	2	1	0	1	1	19.858	15.322
+enhances		9	4	1	0	1	1	18.132	14.322
+always		10	14434	4	0	4	4	17.376	4.505
+sweetland		11	6	1	0	1	1	17.224	13.737
+prevented		12	1168	2	0	2	2	15.819	7.133
+moucée		13	16	1	0	1	1	15.149	12.322
+hurt		14	1522	2	0	2	2	14.767	6.751
+partly		15	1562	2	0	2	2	14.665	6.713
+borrows		16	24	1	0	1	1	14.317	11.737
+invo		17	26	1	0	1	1	14.154	11.622
+friction		18	28	1	0	1	1	14.003	11.515
+parvenu		19	34	1	0	1	1	13.608	11.235
+curiosity		20	2070	2	0	2	2	13.550	6.307
+gertrude		21	2154	2	0	2	1	13.393	6.25

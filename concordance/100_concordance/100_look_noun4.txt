@@ -1,0 +1,14 @@
+"Look which" verb/noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+cast		1	3700	4	0	4	4	31.973	7.185
+volumes		2	688	2	0	2	2	19.911	8.612
+spoko		3	4	1	0	1	1	19.126	15.038
+accompanied		4	1762	2	0	2	2	16.162	7.255
+unmistakably		5	22	1	0	1	1	15.489	12.579
+was		6	349000	11	0	11	11	15.308	2.085
+made		7	32270	4	0	4	4	15.059	4.06
+almost		8	13296	3	0	3	3	14.717	4.924
+fixes		9	38	1	0	1	1	14.376	11.79
+woful		10	50	1	0	1	1	13.821	11.394
+fixed		11	3822	2	0	2	2	13.094	6.138
+observable		12	74	1	0	1	1	13.031	10.829

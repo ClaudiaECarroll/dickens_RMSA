@@ -1,0 +1,7 @@
+"Countenance that" verb/noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+have		1	47486	3	0	3	2	11.792	4.129
+sol		2	442	1	0	1	1	10.919	9.291
+gills		3	454	1	0	1	1	10.866	9.253
+dread		4	490	1	0	1	1	10.713	9.142
+seems		5	830	1	0	1	1	9.661	8.382

@@ -1,0 +1,15 @@
+"Manner that" verb/noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+seemed		1	18922	8	0	8	8	39.697	4.962
+he		2	395904	24	0	24	21	35.499	2.16
+was		3	349000	20	0	20	18	27.703	2.079
+indescribablo		4	2	1	0	1	1	19.646	15.17
+begger		4	2	1	0	1	1	19.646	15.17
+wrhat		4	2	1	0	1	1	19.646	15.17
+affccced		4	2	1	0	1	1	19.646	15.17
+constrains		8	4	1	0	1	1	17.920	14.17
+could		9	61802	7	0	7	5	17.483	3.062
+checked		10	846	2	0	2	2	16.680	7.445
+unlettered		11	10	1	0	1	1	15.917	12.848
+anticipates		12	14	1	0	1	1	15.214	12.362
+rasselas		13	20	1	0	1	1	14.478	11.848

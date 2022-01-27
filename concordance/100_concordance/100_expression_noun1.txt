@@ -1,0 +1,6 @@
+Noun "of her expression"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+passionateness		1	2	1	1	0	1	27.731	20.806
+gentleness		2	251	1	1	0	1	17.457	13.835
+violence		3	837	1	1	0	1	15.046	12.097
+tenderness		4	909	1	1	0	1	14.881	11.978

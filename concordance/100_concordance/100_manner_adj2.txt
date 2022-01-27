@@ -1,0 +1,15 @@
+Adjective "a manner"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+in		1	229279	259	259	0	71	1562.283	5.232
+such		2	19730	86	86	0	39	703.285	7.18
+afther		3	79	3	3	0	1	36.988	10.303
+with		4	127370	17	17	0	10	24.739	2.15
+affcher		5	1	1	1	0	1	20.827	15.022
+frightful		6	285	2	2	0	2	17.851	7.867
+to		7	408155	1	1	0	1	17.822	-3.617
+of		8	450948	2	2	0	2	15.770	-2.761
+singular		9	593	2	2	0	2	14.932	6.81
+manner		10	4490	3	3	0	3	12.897	4.474
+gentlemanlike		11	20	1	1	0	1	12.887	10.7
+indelible		12	35	1	1	0	1	11.747	9.892
+gruff		13	37	1	1	0	1	11.634	9.812

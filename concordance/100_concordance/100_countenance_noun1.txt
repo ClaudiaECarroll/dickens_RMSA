@@ -1,0 +1,24 @@
+Noun "of countenance"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+expression		1	2118	50	50	0	28	719.320	11.459
+out		2	24925	17	17	0	11	118.391	6.346
+change		3	2812	11	11	0	11	114.296	8.866
+cast		4	1850	4	4	0	4	36.589	8.01
+composure		5	338	3	3	0	3	35.893	10.048
+sion		6	823	3	3	0	3	30.546	8.764
+pression		7	221	2	2	0	2	23.990	10.076
+elongation		8	5	1	1	0	1	18.382	14.542
+intelligence		9	955	2	2	0	2	18.134	7.964
+transfiguration		10	7	1	1	0	1	17.645	14.056
+command		11	1561	2	2	0	2	16.177	7.255
+acrimony		12	15	1	1	0	1	16.039	12.957
+play		13	1643	2	2	0	2	15.974	7.182
+gloominess		14	16	1	1	0	1	15.905	12.864
+mobility		15	18	1	1	0	1	15.662	12.694
+perversion		16	23	1	1	0	1	15.160	12.34
+discomposure		17	27	1	1	0	1	14.832	12.109
+contour		18	33	1	1	0	1	14.424	11.819
+sternness		19	77	1	1	0	1	12.713	10.597
+observer		20	160	1	1	0	1	11.245	9.542
+depression		21	196	1	1	0	1	10.838	9.249
+swell		22	223	1	1	0	1	10.580	9.063

@@ -1,0 +1,5 @@
+Noun "of his expression"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+mournfulness		1	10	1	1	0	1	24.682	18.899
+wildness		2	106	1	1	0	1	19.866	15.493
+earnestness		3	305	1	1	0	1	17.746	13.969

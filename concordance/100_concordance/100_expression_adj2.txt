@@ -1,0 +1,13 @@
+"Expression was" adjective
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+peculiarly		1	522	2	0	2	2	24.667	10.319
+inadvertent		2	32	1	0	1	1	16.546	13.347
+conciliatory		3	80	1	0	1	1	14.694	12.025
+one		4	85318	4	0	4	4	14.667	3.966
+inaudible		5	90	1	0	1	1	14.457	11.855
+noticeable		6	94	1	0	1	1	14.370	11.792
+lost		7	8086	2	0	2	2	13.743	6.366
+aggravated		8	176	1	0	1	1	13.111	10.887
+self		9	9626	2	0	2	2	13.054	6.114
+cornelius		10	234	1	0	1	1	12.540	10.476
+manifested		11	264	1	0	1	1	12.299	10.302

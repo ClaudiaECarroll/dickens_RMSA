@@ -1,0 +1,11 @@
+"Expression was" adjective
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+vivid		1	56	1	0	1	1	14.694	12.009
+aggravated		2	62	1	0	1	1	14.489	11.862
+plainer		3	64	1	0	1	1	14.425	11.816
+sharpened		4	68	1	0	1	1	14.303	11.729
+ferocious		5	98	1	0	1	1	13.568	11.201
+so		6	36440	3	0	3	3	12.214	4.248
+reflected		7	232	1	0	1	1	11.839	9.958
+constant		8	442	1	0	1	1	10.550	9.028
+slow		9	622	1	0	1	1	9.867	8.535

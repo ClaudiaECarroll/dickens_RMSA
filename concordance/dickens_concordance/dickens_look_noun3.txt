@@ -1,0 +1,10 @@
+Noun "in his look"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+haggardness		1	4	1	1	0	1	22.162	17.179
+dejection		2	38	1	1	0	1	17.412	13.931
+hatred		3	152	1	1	0	1	14.620	11.931
+hungry		4	246	1	1	0	1	13.655	11.236
+bold		5	460	1	1	0	1	12.402	10.333
+admiration		6	658	1	1	0	1	11.686	9.817
+remarkable		7	852	1	1	0	1	11.169	9.444
+certain		8	2228	1	1	0	1	9.250	8.057

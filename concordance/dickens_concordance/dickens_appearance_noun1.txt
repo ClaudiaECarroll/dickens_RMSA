@@ -1,0 +1,14 @@
+"Appearance of" noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+being		1	11278	28	0	28	11	154.578	5.349
+having		2	6460	18	0	18	9	103.088	5.516
+a		3	181236	32	0	32	12	27.098	1.536
+vincent		4	86	2	0	2	1	19.845	8.577
+new		5	3514	4	0	4	4	15.884	4.224
+composure		6	270	2	0	2	2	15.259	6.926
+aberration		7	4	1	0	1	1	14.916	12.003
+inscribing		7	4	1	0	1	1	14.916	12.003
+vegetating		7	4	1	0	1	1	14.916	12.003
+seeming		10	302	2	0	2	2	14.813	6.765
+interest		11	1702	3	0	3	2	14.420	4.855
+of		12	209760	2	0	2	2	14.369	-2.675

@@ -1,0 +1,14 @@
+Noun "in her look"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+wildness		1	106	1	1	0	1	15.961	12.908
+boldness		2	124	1	1	0	1	15.646	12.682
+relaxed		3	178	1	1	0	1	14.921	12.161
+implied		4	204	1	1	0	1	14.647	11.964
+grandeur		5	254	1	1	0	1	14.208	11.648
+apprehension		6	425	1	1	0	1	13.177	10.905
+showing		7	536	1	1	0	1	12.713	10.57
+reproach		8	651	1	1	0	1	12.324	10.29
+triumph		9	953	1	1	0	1	11.562	9.74
+news		10	1612	1	1	0	1	10.512	8.982
+trouble		11	2010	1	1	0	1	10.072	8.663
+change		12	2812	1	1	0	1	9.402	8.179

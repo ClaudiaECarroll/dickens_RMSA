@@ -1,0 +1,15 @@
+Noun "in his countenance"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+depicted		1	62	3	3	0	1	50.688	13.529
+expressing		2	232	2	2	0	2	26.750	11.041
+expressed		3	786	2	2	0	1	21.861	9.28
+exhibited		4	158	1	1	0	1	12.725	10.595
+seconds		5	196	1	1	0	1	12.293	10.284
+concern		6	210	1	1	0	1	12.155	10.184
+grin		7	232	1	1	0	1	11.955	10.041
+twist		8	234	1	1	0	1	11.938	10.028
+lingering		9	272	1	1	0	1	11.637	9.811
+visible		10	368	1	1	0	1	11.032	9.375
+bearing		11	438	1	1	0	1	10.684	9.124
+humour		12	594	1	1	0	1	10.075	8.684
+pain		13	620	1	1	0	1	9.989	8.622

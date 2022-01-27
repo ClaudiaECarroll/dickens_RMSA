@@ -1,0 +1,6 @@
+Noun "in her look"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+joyful		1	64	1	1	0	1	17.173	13.664
+remonstrance		2	88	1	1	0	1	16.532	13.205
+earnest		3	359	1	1	0	1	13.712	11.176
+angry		4	360	1	1	0	1	13.706	11.172

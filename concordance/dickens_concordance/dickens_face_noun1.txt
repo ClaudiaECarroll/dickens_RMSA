@@ -1,0 +1,20 @@
+Noun "in her face"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+looking		1	7620	11	11	0	5	72.410	6.124
+expression		2	1590	6	6	0	5	50.763	7.51
+looked		3	8210	8	8	0	6	46.334	5.557
+colour		4	552	4	4	0	4	39.009	8.451
+exultation		5	122	2	2	0	2	22.759	9.629
+beaming		6	144	2	2	0	1	22.091	9.39
+attentively		7	244	2	2	0	2	19.974	8.629
+gratitude		8	306	2	2	0	1	19.068	8.302
+visible		9	368	2	2	0	2	18.330	8.036
+triumph		10	392	2	2	0	2	18.078	7.945
+neighbourhood		11	490	2	2	0	1	17.187	7.623
+expressed		12	786	2	2	0	2	15.306	6.941
+up		13	21456	5	5	0	3	15.220	3.493
+tauntingly		14	10	1	1	0	1	15.075	12.238
+saw		15	4854	3	3	0	3	14.629	4.9
+inflexibility		16	16	1	1	0	1	14.096	11.56
+betraying		17	26	1	1	0	1	13.100	10.859
+deep		18	1456	2	2	0	2	12.865	6.052

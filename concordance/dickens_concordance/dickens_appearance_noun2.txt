@@ -1,0 +1,17 @@
+"Appearance of being" noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+extremely		1	616	2	0	2	1	20.944	8.964
+particularly		2	880	2	0	2	2	19.518	8.45
+insured		3	14	1	0	1	1	16.701	13.424
+quarrelsome		4	22	1	0	1	1	15.770	12.772
+taller		5	30	1	0	1	1	15.138	12.324
+courteous		6	56	1	0	1	1	13.874	11.424
+rather		7	3694	2	0	2	2	13.812	6.38
+casual		8	60	1	0	1	1	13.735	11.324
+lightened		9	82	1	0	1	1	13.106	10.874
+mercenary		10	116	1	0	1	1	12.409	10.373
+expensive		11	144	1	0	1	1	11.975	10.061
+haughty		12	152	1	0	1	1	11.867	9.983
+overcome		13	206	1	0	1	1	11.258	9.545
+divided		14	234	1	0	1	1	11.003	9.361
+expressions		15	240	1	0	1	1	10.952	9.324

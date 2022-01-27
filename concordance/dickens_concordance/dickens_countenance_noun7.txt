@@ -1,0 +1,13 @@
+"Countenance which" noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+showed		1	1458	2	0	2	1	20.776	8.891
+metaphysical		2	15	1	0	1	1	18.189	14.494
+rook		3	42	1	0	1	1	16.086	13.009
+denote		4	48	1	0	1	1	15.816	12.816
+repulsive		5	57	1	0	1	1	15.469	12.568
+singularly		6	87	1	0	1	1	14.618	11.958
+seemed		7	6966	2	0	2	2	14.548	6.635
+demd		8	120	1	0	1	1	13.971	11.494
+lasted		9	246	1	0	1	1	12.532	10.459
+asks		10	408	1	0	1	1	11.520	9.729
+clearly		11	561	1	0	1	1	10.883	9.269

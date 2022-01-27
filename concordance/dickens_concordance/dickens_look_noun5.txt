@@ -1,0 +1,12 @@
+"Look that" verb/noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+plainly		1	283	3	0	3	3	35.698	9.967
+way		2	5024	3	0	3	3	18.502	5.817
+scanned		3	6	1	0	1	1	17.527	13.942
+passed		4	1362	2	0	2	2	15.850	7.115
+he		5	53122	5	0	5	5	13.440	3.151
+belonged		6	108	1	0	1	1	11.581	9.772
+tackleton		7	134	1	0	1	1	11.148	9.46
+rested		8	166	1	0	1	1	10.719	9.152
+troubled		9	234	1	0	1	1	10.032	8.656
+accompanied		10	255	1	0	1	1	9.860	8.532

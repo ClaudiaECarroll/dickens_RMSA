@@ -1,0 +1,12 @@
+"Manner that" verb/adjective
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+was		1	92828	21	0	21	12	55.361	3.121
+he		2	106244	14	0	14	10	23.572	2.341
+augured		3	10	1	0	1	1	14.618	11.909
+she		4	42214	7	0	7	6	14.299	2.673
+stamps		5	18	1	0	1	1	13.396	11.061
+amounted		6	20	1	0	1	1	13.180	10.909
+abominable		6	20	1	0	1	1	13.180	10.909
+would		8	22230	5	0	5	4	12.825	3.113
+happened		9	1198	2	0	2	2	12.732	6.005
+philanthropists		10	26	1	0	1	1	12.644	10.531

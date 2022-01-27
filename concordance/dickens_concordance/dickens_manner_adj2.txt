@@ -1,0 +1,8 @@
+Adjective "a manner"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+in		1	70128	95	95	0	17	659.975	5.576
+effective		2	14	1	1	0	1	13.742	11.296
+wilful		3	26	1	1	0	1	12.470	10.403
+complacent		4	40	1	1	0	1	11.596	9.781
+conspicuous		5	49	1	1	0	1	11.186	9.489
+advised		6	63	1	1	0	1	10.679	9.126

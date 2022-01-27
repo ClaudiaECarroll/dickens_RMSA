@@ -1,0 +1,17 @@
+"Countenance which" verb/noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+had		1	231570	15	0	15	11	46.241	3.483
+made		2	32270	7	0	7	6	37.369	5.226
+was		3	349000	12	0	12	12	23.385	2.569
+parian		4	14	1	0	1	1	16.918	13.589
+something		5	13042	3	0	3	3	16.290	5.311
+chang		6	32	1	0	1	1	15.223	12.397
+foreboded		7	36	1	0	1	1	14.984	12.227
+cisely		7	36	1	0	1	1	14.984	12.227
+unmasked		9	38	1	0	1	1	14.875	12.149
+lurks		10	52	1	0	1	1	14.240	11.696
+triumphing		10	52	1	0	1	1	14.240	11.696
+seemed		12	18922	3	0	3	3	14.124	4.774
+superseded		13	82	1	0	1	1	13.323	11.039
+characterized		14	88	1	0	1	1	13.181	10.937
+conjunction		15	96	1	0	1	1	13.006	10.812

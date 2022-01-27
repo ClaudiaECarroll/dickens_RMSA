@@ -1,0 +1,20 @@
+"Countenance of" noun
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+import		1	26	2	0	2	2	30.009	12.198
+mr		2	59134	10	0	10	4	29.257	3.369
+lobbs		3	134	2	0	2	1	23.325	9.832
+silas		4	196	2	0	2	1	21.797	9.284
+samuel		5	238	2	0	2	1	21.018	9.004
+beglared		6	2	1	0	1	1	19.275	14.899
+noggs		7	406	2	0	2	1	18.880	8.233
+the		8	390454	19	0	19	7	17.450	1.572
+newman		9	960	2	0	2	1	15.450	6.992
+pope		10	22	1	0	1	1	13.912	11.439
+closest		11	32	1	0	1	1	13.149	10.899
+contrition		12	36	1	0	1	1	12.910	10.729
+discontent		13	38	1	0	1	1	12.800	10.651
+paleness		13	38	1	0	1	1	12.800	10.651
+fell		15	2102	2	0	2	2	12.349	5.861
+inexorable		16	48	1	0	1	1	12.328	10.314
+ashy		17	52	1	0	1	1	12.166	10.198
+maria		18	54	1	0	1	1	12.090	10.144

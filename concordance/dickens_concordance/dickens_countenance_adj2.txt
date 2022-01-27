@@ -1,0 +1,16 @@
+"Countenance was" adjective
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+remonstrating		1	16	1	0	1	1	17.756	14.179
+peeling		1	16	1	0	1	1	17.756	14.179
+suffused		3	32	1	0	1	1	16.337	13.179
+defy		4	50	1	0	1	1	15.434	12.535
+ashy		5	52	1	0	1	1	15.354	12.478
+grasping		6	146	1	0	1	1	13.278	10.989
+twisted		7	180	1	0	1	1	12.858	10.687
+rapidly		8	238	1	0	1	1	12.298	10.284
+frank		9	356	1	0	1	1	11.492	9.703
+clearly		10	374	1	0	1	1	11.394	9.632
+regular		11	426	1	0	1	1	11.133	9.444
+lighted		12	668	1	0	1	1	10.234	8.795
+pale		13	872	1	0	1	1	9.702	8.41
+smiling		14	880	1	0	1	1	9.684	8.397

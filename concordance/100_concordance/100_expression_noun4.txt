@@ -1,0 +1,7 @@
+Noun "in his expression"
+Collocate	POS	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+hatred		1	886	1	1	0	1	14.789	12.015
+change		2	5624	1	1	0	1	11.094	9.349
+something		3	13042	1	1	0	1	9.415	8.135
+saw		4	16366	1	1	0	1	8.962	7.808
+hand		5	26530	1	1	0	1	8.001	7.111
